@@ -5,7 +5,7 @@
 			<div class="col-md-4">
 				<div class="card">
 					<div class="card-header">
-						<h3>Vus.js</h3>
+						<h3>Vue.js</h3>
 					</div>
 					<div class="card-body">
 						
